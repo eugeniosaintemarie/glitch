@@ -461,7 +461,7 @@ a.demo--current {
 /*--------------------------------------------------*/
 
 .demo-1 {
-  --color-text: purple;
+  --color-text: white;
   --color-bg: black;
   --color-link: purple;
   --color-link-hover: white;
